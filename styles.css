@@ -1,0 +1,24 @@
+h1 {
+    font-size: 3.6em;
+}
+
+.title {
+    text-align: center;
+}
+body {
+    text-align: center;
+    background:rgb(1, 2, 2);
+    color: rgb(255, 254, 254);
+    font-family: 'Indie Flower', cursive;
+
+}
+.logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 6.5em;
+    color: #000;
+    background: #fff;
+    display: inline;
+    padding: 0 0.5em;
+    border-radius: 0.25em;
+
+}
